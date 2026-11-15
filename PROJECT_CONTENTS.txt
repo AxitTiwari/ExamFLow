@@ -1,0 +1,13 @@
+ExamFlow complete project
+=========================
+database/      MySQL schema, stored procedures, demo accounts and verification queries
+backend/       Express REST API and MySQL connection
+frontend/      React UI, login/registration, admin, student and teacher portals
+setup_windows.bat       Installs npm packages and creates backend/.env from template
+start_all_windows.bat   Starts API and web frontend in separate terminal windows
+
+Demo accounts:
+Admin:   admin@examflow.local / Admin@123
+Student: student@examflow.local / Student@123
+Teacher: teacher@examflow.local / Teacher@123
+Pending teacher: pending@examflow.local / Teacher@123
